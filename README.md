@@ -36,8 +36,8 @@ Metal surface defects can impact the quality and reliability of products in manu
 ## 🎯 **How to Run the Project**
 ```bash
 # Clone the repository
-git clone https://github.com/Poojaschavan97/NEU_Defect_Classification.git
-cd NEU_Defect_Classification
+git clone https://github.com/Poojaschavan97/Metal-Detection-.git
+cd Metal-Detection-
 
 
 ---
