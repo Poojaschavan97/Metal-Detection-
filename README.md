@@ -26,7 +26,7 @@ Metal surface defects can impact the quality and reliability of products in manu
 
 ## 📸 **Screenshots**
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/15c598f1-b687-4927-930a-4790b009c62b)
+  !(https://github.com/user-attachments/assets/15c598f1-b687-4927-930a-4790b009c62b)
 
 
   <br>
